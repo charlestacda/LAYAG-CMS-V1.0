@@ -1,0 +1,48 @@
+login feature
+- change logo
+- fields
+
+register feature
+- change logo
+- change card color
+- add, edit, and remove fields (text, values, password req)
+- edit privacy policy
+
+home feature
+- add, edit, and remove tips card
+- add, edit, and remove portal links card
+- edit background picture
+- edit logo
+- sort portal
+- change bg pic
+
+calendar feature
+- edit academic calendar UI
+- add, edit, and remove events
+
+to-do list feature
+- edit task card UI
+
+student handbook feature
+- edit the whole handbook
+- change UI (font, color, etc.)
+
+notification feature
+- edit notification card UI
+
+help feature
+- edit how to use page (text and pictures)
+
+payment procedures features
+- add, edit, and remove payment procedures cards
+- edit payment procedure pages (text, links and pictures)
+
+academic info feature
+- add, edit, and remove contact info
+
+account settings feature
+- add, edit, and remove displayed fields
+- edit UI elements
+
+
+

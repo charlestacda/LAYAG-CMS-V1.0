@@ -1,0 +1,10 @@
+{
+  "projectName": "layag_cms",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "php7.4"
+  },
+  "hash": "3778b0ed"
+}
